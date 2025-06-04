@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeeshan Ahmad siddiqui</h1>
 <h3 align="center">A passionate Full stack development from India</h3>
 
-- 🔭 I’m currently working on **Zerodha**
-
-- 🌱 I’m currently learning **Cloud**
+- 🌱 I’m currently learning **devops**
 
 - 📫 How to reach me **khanzeeshan84854@gmail.com**
 
